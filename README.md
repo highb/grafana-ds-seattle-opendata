@@ -1,6 +1,6 @@
 # Grafana data source plugin template
 
-This template is a starting point for building a Data Source Plugin for Grafana.
+This repo is a Data Source Plugin for Grafana built as part of the Hands On Lab at Grafanacon 2025.
 
 ## What are Grafana data source plugins?
 

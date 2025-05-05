@@ -1,0 +1,28 @@
+{
+  "$schema": "https://raw.githubusercontent.com/grafana/grafana/main/docs/sources/developers/plugins/plugin.schema.json",
+  "type": "datasource",
+  "name": "Grafana-Ds-Seattle-Opendata",
+  "id": "highb-grafanadsseattleopendata-datasource",
+  "metrics": true,
+  "backend": true,
+  "executable": "gpx_grafana_ds_seattle_opendata",
+  "info": {
+    "description": "",
+    "author": {
+      "name": "Highb"
+    },
+    "keywords": ["datasource"],
+    "logos": {
+      "small": "img/logo.svg",
+      "large": "img/logo.svg"
+    },
+    "links": [],
+    "screenshots": [],
+    "version": "%VERSION%",
+    "updated": "%TODAY%"
+  },
+  "dependencies": {
+    "grafanaDependency": ">=10.4.0",
+    "plugins": []
+  }
+}

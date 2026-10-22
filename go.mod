@@ -1,6 +1,6 @@
 module github.com/highb/grafana-ds-seattle-opendata
 
-go 1.22
+go 1.24
 
 require github.com/grafana/grafana-plugin-sdk-go v0.156.0
 
@@ -31,7 +31,7 @@ require (
 	github.com/hashicorp/yamux v0.0.0-20181012175058-2f1d1f20f75d // indirect
 	github.com/josharian/intern v1.0.0 // indirect
 	github.com/json-iterator/go v1.1.12 // indirect
-	github.com/klauspost/compress v1.13.1 // indirect
+	github.com/klauspost/compress v1.18.7 // indirect
 	github.com/magefile/mage v1.14.0 // indirect
 	github.com/mailru/easyjson v0.7.7 // indirect
 	github.com/mattetti/filebuffer v1.0.1 // indirect
